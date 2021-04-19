@@ -252,3 +252,7 @@
     left: -55px;
   }
 
+  .slick-slider.slick-initialized {
+    width: calc(100% - 140px);
+    margin: auto;
+    }
